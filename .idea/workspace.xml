@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c60cae-5714-49be-9dd1-351dfd520d36" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy.yml" afterPath="$PROJECT_DIR$/config/deploy.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/index.liquid.haml" afterPath="$PROJECT_DIR$/app/views/pages/index.liquid.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/site.yml" afterPath="$PROJECT_DIR$/config/site.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/wagon.log" afterPath="$PROJECT_DIR$/log/wagon.log" />
     </list>
     <ignored path="dwightgnjohnson2014.iws" />
@@ -40,15 +38,15 @@
       <file leaf-file-name="index.liquid.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/pages/index.liquid.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7049608" vertical-offset="675" max-vertical-offset="15990">
-              <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+            <state vertical-scroll-proportion="-2.4869452" vertical-offset="2940" max-vertical-offset="15990">
+              <caret line="69" column="43" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
               <folding>
-                <marker date="1404264141000" expanded="true" signature="1169:1244" placeholder="{...}" />
-                <marker date="1404264141000" expanded="true" signature="1195:1234" placeholder="{...}" />
-                <marker date="1404264141000" expanded="true" signature="1271:1622" placeholder="{...}" />
-                <marker date="1404264141000" expanded="true" signature="1653:1808" placeholder="{...}" />
-                <marker date="1404264141000" expanded="true" signature="1831:2207" placeholder="{...}" />
-                <marker date="1404264141000" expanded="true" signature="2241:2279" placeholder="{...}" />
+                <marker date="1404325022000" expanded="true" signature="1169:1244" placeholder="{...}" />
+                <marker date="1404325022000" expanded="true" signature="1195:1234" placeholder="{...}" />
+                <marker date="1404325022000" expanded="true" signature="1271:1622" placeholder="{...}" />
+                <marker date="1404325022000" expanded="true" signature="1653:1808" placeholder="{...}" />
+                <marker date="1404325022000" expanded="true" signature="1831:2207" placeholder="{...}" />
+                <marker date="1404325022000" expanded="true" signature="2241:2279" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -315,15 +313,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/index.liquid.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7049608" vertical-offset="675" max-vertical-offset="15990">
-          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+        <state vertical-scroll-proportion="-2.4869452" vertical-offset="2940" max-vertical-offset="15990">
+          <caret line="69" column="43" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
           <folding>
-            <marker date="1404264141000" expanded="true" signature="1169:1244" placeholder="{...}" />
-            <marker date="1404264141000" expanded="true" signature="1195:1234" placeholder="{...}" />
-            <marker date="1404264141000" expanded="true" signature="1271:1622" placeholder="{...}" />
-            <marker date="1404264141000" expanded="true" signature="1653:1808" placeholder="{...}" />
-            <marker date="1404264141000" expanded="true" signature="1831:2207" placeholder="{...}" />
-            <marker date="1404264141000" expanded="true" signature="2241:2279" placeholder="{...}" />
+            <marker date="1404325022000" expanded="true" signature="1169:1244" placeholder="{...}" />
+            <marker date="1404325022000" expanded="true" signature="1195:1234" placeholder="{...}" />
+            <marker date="1404325022000" expanded="true" signature="1271:1622" placeholder="{...}" />
+            <marker date="1404325022000" expanded="true" signature="1653:1808" placeholder="{...}" />
+            <marker date="1404325022000" expanded="true" signature="1831:2207" placeholder="{...}" />
+            <marker date="1404325022000" expanded="true" signature="2241:2279" placeholder="{...}" />
           </folding>
         </state>
       </provider>
