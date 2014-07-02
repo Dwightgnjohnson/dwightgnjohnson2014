@@ -13,3 +13,7 @@ production:
   email: john@doe.net
   password: apassword
   # api_key: <your api key here>
+hosting:
+  host: puce-hooker-16.locomotivehosting.com
+  api_key: e6ae6518f876674fe341381de4636a7c5853adc0
+  ssl: true
